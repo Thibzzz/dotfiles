@@ -98,13 +98,13 @@ source ~/.rvm/scripts/rvm
 # ALIASES
 alias zconf="code ~/.zshrc"
 alias zload="source ~/.zshrc"
-alias vload="source ~/.config/nvim/init.vim"
+alias vload="source ~/.dotfiles/init.vim"
 alias zkey="cat ~/.ssh/id_rsa.pub"
 alias c="f -e code"
 alias v="f -e nvim"
 alias e="f -e emacs"
 alias vs="vim ~/.vimcheatsheet"
-alias vc="vim ~/.config/nvim/init.vim"
+alias vc="vim ~/.dotfiles/nvim/init.vim"
 alias vp="cd ~/.vim/plugged"
 alias vim="nvim"
 
