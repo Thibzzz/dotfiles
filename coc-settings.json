@@ -1,0 +1,11 @@
+{
+  "diagnostic.warningSign": "⚡",
+  "diagnostic.errorSign": "❌",
+  "diagnostic.hintSign": "💡",
+  "diagnostic.infoSign": "⚠️",
+  "diagnostic.enable": true,
+  "coc.preferences.formatOnSaveFiletypes": ["Markdown", "json"],
+  "prettier.singleQuote": true,
+  "prettier.disableSuccessMessage": true,
+  "prettier.requireConfig": true
+}
